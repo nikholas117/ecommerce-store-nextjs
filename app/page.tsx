@@ -1,4 +1,3 @@
-import styles from "./page.module.css";
 import { stripe } from "@/lib/stripe";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
